@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RambaHamba",
+        "repositoryURL": "https://github.com/obozhdi/rambahamba.git",
+        "state": {
+          "branch": "master",
+          "revision": "5d2830452587f96bb97d7b49008dcc13783fbaeb",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
